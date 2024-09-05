@@ -1,4 +1,4 @@
-## Personal Identification Code Quality Check Script
+## Personal Identification Code Validator
 This Python script is designed to verify the correctness of Estonian personal identification code (isikukood). The script performs several checks to ensure that the code is valid in format and content.
 
 ### Features
